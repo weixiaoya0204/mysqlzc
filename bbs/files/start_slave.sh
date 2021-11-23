@@ -1,6 +1,6 @@
 #!/bin/bash
 
-master_ip=192.168.136.141
+master_ip=192.168.235.135
 mysql=/usr/local/mysql/bin/mysql
 repl_user=repl
 repl_pass=repl123
